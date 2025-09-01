@@ -52,10 +52,10 @@ http://localhost:7860
 
 
 ### Dependencies
-openai
-chromadb
-gradio
-tqdm
+- openai
+- chromadb
+- gradio
+
 
 
 
