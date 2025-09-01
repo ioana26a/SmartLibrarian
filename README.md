@@ -32,29 +32,28 @@ smart_librarian/
 ## ⚙️ Setup & Build Steps
 
 ### Clone the repository
-
-git clone https://github.com/your-username/smart-librarian.git
-cd smart-librarian
+- git clone https://github.com/your-username/smart-librarian.git
+- cd smart-librarian
 
 ### Create and activate a virtual environment
-
-python -m venv venv
-source venv/bin/activate      # On Windows: venv\Scripts\activate
+- python -m venv venv
+- source venv/bin/activate      # On Windows: venv\Scripts\activate
 
 ### Set up your OpenAI API key
-export OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxx     # On Linux/macOS
-set OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxx         # On Windows CMD
+- export OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxx     # On Linux/macOS
+- set OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxx         # On Windows CMD
 
 ### Run the App
-python ui/gradio_app.py
-Then open your browser to:
-http://localhost:7860
+- python ui/gradio_app.py
+- Then open your browser to:
+- http://localhost:7860
 
 
 ### Dependencies
 - openai
 - chromadb
 - gradio
+
 
 
 
