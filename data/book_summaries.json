@@ -1,0 +1,42 @@
+{
+  "1984": {
+    "summary": "A dystopian story about a totalitarian regime where citizens are under constant surveillance by Big Brother. Winston Smith, the protagonist, secretly rebels against the oppressive system in search of truth and freedom.",
+    "themes": ["control", "freedom", "truth", "rebellion"]
+  },
+  "The Hobbit": {
+    "summary": "Bilbo Baggins, a peaceful hobbit, is unexpectedly recruited by a group of dwarves to reclaim their treasure from the dragon Smaug. Along the journey, he discovers courage, resourcefulness, and unlikely friendships.",
+    "themes": ["adventure", "courage", "friendship"]
+  },
+  "Harry Potter and the Philosopher's Stone": {
+    "summary": "Harry Potter, a young orphan living with abusive relatives, discovers he is a wizard and is invited to attend Hogwarts. There, he befriends Ron and Hermione, uncovers secrets about his past, and faces the dark wizard Voldemort.",
+    "themes": ["friendship", "magic", "self-discovery"]
+  },
+  "To Kill a Mockingbird": {
+    "summary": "Scout Finch grows up in the racially divided town of Maycomb, Alabama, during the 1930s. Through her father Atticus's defense of a Black man falsely accused of rape, she learns about justice, empathy, and moral integrity.",
+    "themes": ["racism", "childhood", "justice"]
+  },
+  "Brave New World": {
+    "summary": "In a futuristic society driven by technological control, citizens are conditioned to conform and pursue pleasure. Bernard Marx and others begin to question the cost of losing individuality and emotional depth.",
+    "themes": ["technology", "conformity", "identity"]
+  },
+  "The Catcher in the Rye": {
+    "summary": "Holden Caulfield recounts his days wandering New York City after being expelled from prep school. As he navigates loneliness and confusion, he reveals his deep struggle with grief, authenticity, and growing up.",
+    "themes": ["alienation", "youth", "mental health"]
+  },
+  "The Lord of the Rings": {
+    "summary": "Frodo Baggins inherits a powerful ring that must be destroyed to save Middle-earth. He joins a fellowship on a perilous quest, facing temptation, sacrifice, and the corrupting nature of power.",
+    "themes": ["good vs evil", "sacrifice", "friendship"]
+  },
+  "The Chronicles of Narnia": {
+    "summary": "Four siblings enter a magical world through a wardrobe and find themselves in a battle between good and evil. Guided by the lion Aslan, they must help defeat the White Witch and restore peace to Narnia.",
+    "themes": ["fantasy", "bravery", "redemption"]
+  },
+  "Animal Farm": {
+    "summary": "Animals on a farm overthrow their human owner to create an egalitarian society. However, power corrupts, and a new tyranny led by the pigs emerges, mirroring the flaws of the original regime.",
+    "themes": ["power", "corruption", "revolution"]
+  },
+  "The Little Prince": {
+    "summary": "A pilot stranded in the desert meets a mysterious boy from another planet who shares stories of his travels. Through their conversations, the story explores love, loss, and the essence of human connection.",
+    "themes": ["innocence", "love", "perspective on adulthood"]
+  }
+}
